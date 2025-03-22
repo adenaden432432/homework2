@@ -104,4 +104,4 @@ discussions:
 
 ![](https://gitee.com/capmlin/pictures/raw/master/typoro/20250322213434846.png)
 
-![image-20250322213826651](C:\Users\thinkpad\AppData\Roaming\Typora\typora-user-images\image-20250322213826651.png)
+![](https://gitee.com/capmlin/pictures/raw/master/typoro/image-20250322213826651.png)
