@@ -80,7 +80,7 @@ discussions:
 
 ![](https://gitee.com/capmlin/pictures/raw/master/typoro/20250322112317120.png)
 
-![image-20250322112808925](C:\Users\thinkpad\AppData\Roaming\Typora\typora-user-images\image-20250322112808925.png)
+![](https://gitee.com/capmlin/pictures/raw/master/typoro/image-20250322112808925.png)
 
 反复这样操作并同步，便有最后的结果：
 
